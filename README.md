@@ -1,3 +1,1 @@
-# py-2018-03-12
-
-test
+# Szkolenie z podstaw Pythona 2018.03.12-14
